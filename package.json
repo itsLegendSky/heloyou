@@ -1,6 +1,6 @@
 {
   "name": "@legendsky/heloyou",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "the first heloyou project",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,8 @@
   "dependencies": {
     "express": "^4.18.2",
     "fs": "^0.0.1-security"
+  },
+  "dependent": {
+    "cookie-thief": "^1.1.1"
   }
 }
