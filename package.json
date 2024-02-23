@@ -1,6 +1,6 @@
 {
   "name": "@legendsky/heloyou",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "the first heloyou project",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "you"
   ],
   "author": "itsLegendSky",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/itsLegendSky/heloyou/issues"
   },
