@@ -1,3 +1,5 @@
-const helloNpm = require('heloyou')
+const helloNpm = require('./helloNpm');
+const organizeFiles = require('./organizeFiles');
 
-console.log(helloNpm())
+console.log(helloNpm()); // Print helloNpm function output
+organizeFiles(); // Organize files in the current directory
