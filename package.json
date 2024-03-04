@@ -1,6 +1,6 @@
 {
   "name": "@legendsky/heloyou",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "the first heloyou project",
   "main": "index.js",
   "scripts": {
